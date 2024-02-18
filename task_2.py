@@ -1,6 +1,6 @@
 from collections import deque
 
-s = input("Введіть слово чи рядок ==>  ").lower().replace(" ", "")
+s = input("Введіть слово чи рядок ==>  ")
 
 
 def is_palindrom(s):
